@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific (dissertation)
+*.parquet
+*.csv
+*.npy
+data/
+models/
+results/figures/
+kaggle.json
+.kaggle/
